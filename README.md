@@ -52,6 +52,13 @@ crypto-portfolio-tracker/
 - **Lucide Icons / React Icons** – Icon set for UI  
 - **CoinGecko API (Future)** – Live crypto prices  
 - **Gemini API (Future)** – AI-powered insights
+  
+
+## 🔗 Live Demo
+
+Try it out: [https://future-bc-05-drab.vercel.app](https://future-bc-05-drab.vercel.app)
+
+[![Vercel](https://img.shields.io/badge/deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://future-bc-05-drab.vercel.app)
 
 ## 👨‍💻 Author
 
