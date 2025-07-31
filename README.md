@@ -67,4 +67,5 @@ Try it out: [CryptoHub](https://future-bc-05-drab.vercel.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gulshan90)  
 - 💻 [GitHub](https://github.com/0xsherlocks)  
 - ✉️ rajgulshan2580@gmail.com
-[![GitHub stars](https://img.shields.io/github/stars/0xsherlocks/crypto-portfolio-tracker?style=social)](https://github.com/0xsherlocks/crypto-portfolio-tracker)
+  
+[![GitHub stars](https://img.shields.io/github/stars/0xsherlocks/crypto-portfolio-tracker?style=social)](https://github.com/0xsherlocks/FUTURE_BC_05/)
