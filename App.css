@@ -1,0 +1,17 @@
+/* New Blueprint Grid Background */
+.cyber-background {
+  /* The deep indigo base color */
+  background-color: #1e1b4b;
+  /* Layered gradients to create the grid and dots */
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.15) 1px, transparent 0),
+    linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 0),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 0);
+  background-size: 40px 40px;
+}
+
+/* This makes sure all your content sits on top of the background */
+.cyber-background > * {
+  position: relative;
+  z-index: 1;
+}
