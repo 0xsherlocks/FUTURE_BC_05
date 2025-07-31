@@ -56,7 +56,7 @@ crypto-portfolio-tracker/
 
 ## 🔗 Live Demo
 
-Try it out: [https://future-bc-05-drab.vercel.app](https://future-bc-05-drab.vercel.app)
+Try it out: [CryptoHub](https://future-bc-05-drab.vercel.app)
 
 [![Vercel](https://img.shields.io/badge/deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://future-bc-05-drab.vercel.app)
 
@@ -67,3 +67,4 @@ Try it out: [https://future-bc-05-drab.vercel.app](https://future-bc-05-drab.ver
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gulshan90)  
 - 💻 [GitHub](https://github.com/0xsherlocks)  
 - ✉️ rajgulshan2580@gmail.com
+[![GitHub stars](https://img.shields.io/github/stars/0xsherlocks/crypto-portfolio-tracker?style=social)](https://github.com/0xsherlocks/crypto-portfolio-tracker)
