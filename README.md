@@ -22,15 +22,25 @@ This project was developed as **Task 5** of the **Future Interns Program**, demo
 
 ## 📂 Project Structure
 crypto-portfolio-tracker/
+
 │
+
 ├── src/
+
 │ ├── components/ # Sidebar, Layout, and reusable UI
+
 │ ├── pages/ # Dashboard, Assets, Alerts, etc.
+
 │ └── App.js # Main app with routing
+
 │
+
 ├── public/
+
 │ └── profile.png # Profile image for sidebar
+
 │
+
 └── README.md
 
 ---
