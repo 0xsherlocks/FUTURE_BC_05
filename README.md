@@ -18,29 +18,65 @@ This project was developed as **Task 5** of the **Future Interns Program**, demo
 
 ---
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **Node.js** (v14 or higher)
+- **npm** or **yarn**
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/0xsherlocks/FUTURE_BC_05.git
+   cd FUTURE_BC_05
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+### Available Scripts
+
+| Command | Description |
+|---------|-------------|
+| `npm start` | Runs the app in development mode |
+| `npm run build` | Builds the app for production |
+| `npm test` | Runs the test suite |
+
+---
+
 ## 📂 Project Structure
 
-crypto-portfolio-tracker/
-
+```
+FUTURE_BC_05/
 │
-
 ├── src/
-
-│ ├── components/ # Sidebar, Layout, and reusable UI
-
-│ ├── pages/ # Dashboard, Assets, Alerts, etc.
-
-│ └── App.js # Main app with routing
-
+│   ├── Components/
+│   │   └── UI/          # Reusable UI components
+│   ├── App.js           # Main app with routing
+│   ├── App.css          # App styles
+│   └── index.js         # Entry point
 │
-
 ├── public/
-
-│ └── profile.png # Profile image for sidebar
-
+│   └── index.html       # HTML template
 │
-
+├── tailwind.config.js   # Tailwind CSS configuration
+├── package.json         # Dependencies and scripts
 └── README.md
+```
 
 ---
 
@@ -49,16 +85,21 @@ crypto-portfolio-tracker/
 - **React.js** – Frontend framework  
 - **Tailwind CSS** – Styling and responsive design  
 - **React Router** – Multi-page navigation  
-- **Lucide Icons / React Icons** – Icon set for UI  
+- **React Icons** – Icon set for UI  
+- **Recharts** – Data visualization and charts  
+- **TSParticles** – Particle effects for background  
 - **CoinGecko API (Future)** – Live crypto prices  
 - **Gemini API (Future)** – AI-powered insights
-  
+
+---
 
 ## 🔗 Live Demo
 
 Try it out: [CryptoHub](https://future-bc-05-drab.vercel.app)
 
 [![Vercel](https://img.shields.io/badge/deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://future-bc-05-drab.vercel.app)
+
+---
 
 ## 👨‍💻 Author
 
@@ -67,5 +108,11 @@ Try it out: [CryptoHub](https://future-bc-05-drab.vercel.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gulshan90)  
 - 💻 [GitHub](https://github.com/0xsherlocks)  
 - ✉️ rajgulshan2580@gmail.com
-  
-[![GitHub stars](https://img.shields.io/github/stars/0xsherlocks/crypto-portfolio-tracker?style=social)](https://github.com/0xsherlocks/FUTURE_BC_05/)
+
+---
+
+## ⭐ Show Your Support
+
+If you find this project helpful, please give it a star!
+
+[![GitHub stars](https://img.shields.io/github/stars/0xsherlocks/FUTURE_BC_05?style=social)](https://github.com/0xsherlocks/FUTURE_BC_05)
